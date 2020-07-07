@@ -1,0 +1,8 @@
+,Name,Blueprint,BehaviorTree,Weapon,WeaponSocketName,Health,Mana,Damage,WalkSpeed,MaxWalkSpeed,SightRadius,StartChaseRange,EndChaseRange,AttackRange,AlarmRange,RestartRange
+1,Melee,BpCEnemyMelee,BpCEnemyMeleeTree,BpCWeaponDrill,RightHandWeapon,50,0,20,150,400,1750,900,1400,150,0,0
+2,Range,BpCEnemyRange,BpCEnemyRangeTree,BpCWeaponShotgun,RifleWeapon,40,0,10,150,350,1850,1100,1500,900,415,600
+3,Mage,BpCEnemyMage,BpCEnemyMageTree,,,30,70,30,150,350,1850,1100,1500,900,415,600
+4,Drone,BpCEnemyDrone,BpCEnemyDroneTree,,,30,0,40,150,400,1750,0,10000,150,0,0
+5,Turret,BpCEnemyTurret,BpCEnemyTurretTree,,,40,0,10,0,0,1850,0,0,900,0,0
+6,Boss,BpCEnemyBoss,BpCEnemyBossTree,,,500,0,20,300,300,1750,10000,10000,150,0,0
+,,,,,,,,,,,,,,,,
